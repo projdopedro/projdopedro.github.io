@@ -1,0 +1,137 @@
+html {margin-right: 0px; background-image: url('img/port4.jpg');  overflow-x: hidden; margin-left: 5px;} 
+h2{padding:10px; color:green; text-align: center;  font-size:30x; font-weight:700;}
+/** cor da border body: #ffff0082; border: 15px dashed #0080006b; 
+h2{padding:10px; color:green; text-align: center;  font-size:30x; font-weight:700;}
+h1{padding:10px; color:green; text-align: center; color:#333;  font-size:25px; font-weight:700; }
+h3{ font-size:22px; color:green; font-weight:700;"}
+p{ font-size:20x; color:green; font-weight:700;"
+border-top: 70px solid #1d809f!important;
+}
+
+**/
+/*
+#divBannerTopo{ background-color: rgba(0,123,255,.5); height: 110px; border-left: 1px solid red; border-right: 1px solid red; " }
+*/
+
+/** header   border: 20px dashed #0080006b; **/
+body{ margin-top: 0px; }
+nav{margin-top: 0px; }
+#divBannerTopo{ padding-top: 5px; }
+
+#divTopoH4 > a:hover{ background-color:  #fff; text-decoration: none; }
+
+#page-top{margin-left: 0px;}
+header{	
+	 background-image: url('img/');
+}
+#content_header{margin-top: -65px;}
+#bodyHeader{ background-color: #ffff007d; border-radius: 5px; padding-bottom: 40px; } /*  background-color: #ffff007d;  background-color: #ffc10752; */
+#BtnDownHeader{margin-bottom: 40px;
+}
+#btnHeader{ margin-left: 8px; }
+
+.modalH3{
+	 padding: 20px; color: yellow; background-color: #28a74536; text-align: center;}
+
+/** sobre **/
+#sobre{
+	background-color:#28a74536; border: 20px dashed #0080006b; margin-top: 0px;
+}
+.sobreH2{color: #fff707;}
+.content-section{margin-top: 170px;}
+#btnModalSobre{ width: 60%; margin: 0 auto; margin-bottom: 20px; }
+/**  background-color: #28a74536; background-color:#e9ecefbd; **/
+strong {
+	font-family: sans-serif; font-size: 22px; color: #333;
+}
+.paragrafosServcos{
+	font-family: sans-serif; color: #333; font-weight: 900;
+}
+
+/** serviços **/
+.rowServicos{ padding: 2px;}
+.divsServices{background-color: #ffffffab; border: 1px solid #0080006b; }
+.divsServices:hover{background-color:  #ffff0061; border: 1px solid red; }
+.container.molduraCircilar{margin-top: 15px; border-radius: 70px;}
+.h2PortFase{font-size: 22px; text-decoration: none;}
+.h2Services{ font-size: 20px; text-decoration: none; }
+
+#aServicos{ text-decoration: none;}
+.modalDivBB{ margin-left: -35px; }
+.modalServicesH4{  padding: 5px; margin-top: 50px;}
+.bkgModalServices{ background-color: #ffc0cbc2;  border-radius: 120px 0px 120px 0px; } /* #dee2e6; */
+.fontSizePSevices{ color: #666; font-size: 20px;}
+.footerModalServices{ margin-right: 250px; }
+
+
+
+/** videos background-color: #28a74536; **/
+video{ background-color:#28a74536; padding: 10px; border: 20px dashed #0080006b; }
+
+#video{background-color: #ffc10769; margin-top: -250px; margin-bottom: -180px;}
+#rowVidio{ }
+/** #video{height: -130%; margin-top: -210px; margin-bottom: -180px; background-color: #ffc10769;} background-color: #ffff007d;  **/
+#iframe1{margin-right: -15px;}
+
+/** Eventos **/
+#portfolio{ width: 100%; border: 20px dashed #0080006b; border-radius: 20px;   }
+#coringa{ margin-top: -298px;  }
+#idgaleria{
+	   border-radius: 20px; border: 1px solid red; width: 100%; background-color: #ffff00a6;
+       padding: 20px;  margin-top: -120px; margin-bottom: -120px;
+}
+
+/** informações **/
+.divH1Info { margin-top: -120px; background-color: #ffffffbf; margin-bottom: -10px;}
+
+/**  contato  **/
+.divH1{ margin-top: 20px; background-color: #ffffffbf; margin-bottom: -10px;}
+.tituloH1{ text-align: center; color: green; padding:10px; font-size:40px;  border-bottom: 4px solid red; }
+#contact{
+	padding: 10px; text-align: center;color: green; margin-top: 0px; width: 100%; 
+	border: 20px dashed #0080006b;
+}
+
+#chamaContact{ margin-top: -90px;}
+.txtContato{ float: left; font-size: 25px; color: #333; background-color: #ffff0061; padding: 5px; border-radius: 10px; } /* color: #fff707; */
+iframe{margin-left:-15px; }
+.divGoogleMps{
+	 background-color:#ffc10752; 
+}
+.sectionContato{ background-color: #ffc10752; padding: 20px; margin-top: -22px; 
+	border-top: 1px solid green; width: 100%; height: 100%; margin-left:0px; border: 20px dashed #0080006b;
+}
+.divContato{ margin-top: 50px;margin-left: -30px; }
+
+/** footer background-color:  #28a74536; **/
+footer{ background-color: #ffc10752; margin-bottom: -100px; }
+.text-muted{ font-size: 22px; }
+
+
+
+/* Media querie 
+@media screen and (min-width: 480px) {		
+		#divBannerTopo{
+			height: 130px; border-left: 15px solid red; 
+			border-right: 15px solid red;
+			}
+			#divTopoH4{ margin-top:20px; font-size: 40px; text-align: center; }
+			
+			#divTopoa{ text-align: center; padding:40px 20px 40px 0px; margin-top: 5px; color: #fff;
+	           text-decoration: none; margin-left: 5px;  
+		}	
+}
+
+*/
+
+/* banner topo 
+#divBannerTopo{
+	background-color: rgba(0,123,255,.5);  height: 110px; border-left: 15px solid red; 
+	border-right: 15px solid red; 
+}
+#divTopoH4{ margin-top:20px; font-size: 30px; text-align: center; }
+#divTopoa{ text-align: center; padding:40px 20px 40px 0px; margin-top: 5px; color: #fff;
+           text-decoration: none; margin-left: 5px;  
+}
+
+*/
