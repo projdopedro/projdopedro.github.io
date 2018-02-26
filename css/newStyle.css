@@ -83,6 +83,7 @@ video{ background-color:#28a74536; padding: 10px; border: 20px dashed #0080006b;
 
 /** informações **/
 .divH1Info { margin-top: -120px; background-color: #ffffffbf; margin-bottom: -10px;}
+.subtituloH3{ background-color: #ffff00a6; width: 50%; margin: 0 auto; }
 
 /**  contato  **/
 .divH1{ margin-top: 20px; background-color: #ffffffbf; margin-bottom: -10px;}
