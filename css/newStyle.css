@@ -78,7 +78,7 @@ video{ background-color:#28a74536; padding: 10px; border: 20px dashed #0080006b;
 #coringa{ margin-top: -298px;  }
 #idgaleria{
 	   border-radius: 20px; border: 1px solid red; width: 100%; background-color: pink; /* #ffff00a6; */
-       padding: 20px;  margin-top: -120px; margin-bottom: -120px; border: 20px dashed blue;
+       padding: 20px;  margin-top: -120px; margin-bottom: -120px; border: 20px solid #00800094; /* border: 20px dashed blue; */
 }
 
 /** informações **/
